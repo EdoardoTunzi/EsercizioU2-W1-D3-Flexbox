@@ -1,0 +1,21 @@
+.cards-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+/*MEDIAQ per tablet*/
+@media screen and (min-width: 576px) {
+  nav {
+    font-size: 12px;
+    font-weight: 600;
+  }
+}
+
+/*MEDIAQ per desktop*/
+@media screen and (min-width: 768px) {
+  nav {
+    font-size: 15px;
+    font-weight: 600;
+  }
+}

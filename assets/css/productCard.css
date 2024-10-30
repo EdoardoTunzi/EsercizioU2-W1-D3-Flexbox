@@ -8,6 +8,7 @@ body {
   border-radius: 70px;
   overflow: hidden;
   text-align: center;
+  margin: 10px;
 }
 .card img {
   width: 100%;
