@@ -3,12 +3,12 @@ body {
 }
 .card {
   background-color: #fbf7e3;
-  width: 240px;
+  width: 48%;
   height: auto;
-  border-radius: 70px;
+  border-radius: 50px;
   overflow: hidden;
   text-align: center;
-  margin: 10px;
+  margin-bottom: 20px;
 }
 .card img {
   width: 100%;
